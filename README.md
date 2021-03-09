@@ -1,0 +1,2 @@
+# cfg
+graphic only.
